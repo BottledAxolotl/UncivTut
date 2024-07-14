@@ -10,6 +10,6 @@
 		"cost": 200,
 		"requiredTech": "Agriculture",
 		"promotions": ["March","Medic","Rejuvenation"],
-		"attackSound": "swords"
+		"attackSound": "nonmetalhit"
 	}
 ]
