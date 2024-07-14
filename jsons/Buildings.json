@@ -1,21 +1,21 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"name": "Lush Gardens",
+		"replaces": "Hanging Gardens",
+		"uniqueTo": "Axolotls",
 		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"happiness": 8,
+		"culture": 5,
+		"food": 10,
+		"maintenance": 10,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredBuildingInAllCities": "Garden",
+		"requiredTech": "Mathematics"
 	},
 	{
-		"name": "Breeders",
+		"name": "Mating pools",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Axolotl",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
